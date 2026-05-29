@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/uploads/*
+data/qdrant_db/*
+.DS_StoreRAG_document_assistant/
+venv/
+__pycache__/
+.env
+data/qdrant_db/
+data/uploads/
+RAG_document_assistant/
